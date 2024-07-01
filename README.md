@@ -1,8 +1,8 @@
-# js-keylogger-generator
+### keylogger-generator
 
-"js-keylogger-generator" is a web application that generates a customizable keylogger script based on user inputs. Users can specify the URL where the captured keystrokes will be sent, as well as the time interval for sending the data. The generated script supports most keyboard characters and also includes special keys such as Backspace, Tab, Enter, Shift, Ctrl, Alt, Esc, Delete, and Caps Lock.
+"keylogger-generator" is a web application that generates a customizable keylogger script based on user inputs. Users can specify the URL where the captured keystrokes will be sent, as well as the time interval for sending the data. The generated script supports most keyboard characters and also includes special keys such as Backspace, Tab, Enter, Shift, Ctrl, Alt, Esc, Delete, and Caps Lock.
 
-The tool currently supports US QWERTY keyboard layout, but it can be easily extended to support other keyboard layouts by modifying the source code. The generated script can also be obfuscated and encoded in various formats.
+
 
 - None
 - Obfuscated
@@ -11,8 +11,6 @@ The tool currently supports US QWERTY keyboard layout, but it can be easily exte
 - Decimal Encoded
 - Decimal Encoded + Obfuscated
 
-# Legal Disclaimer
-Please use this tool only for legal and ethical purposes, and with the explicit and informed consent of the users whose keystrokes you are logging. By using this tool, you assume all legal and ethical responsibilities for your actions, and agree to use it in compliance with all applicable laws, regulations, and ethical standards. You acknowledge that any unauthorized use of this tool is strictly prohibited, and that you are solely responsible for any consequences that may arise from such use.
 
 # Usage
 ## Part 1
