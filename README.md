@@ -12,26 +12,7 @@
 - Decimal Encoded + Obfuscated
 
 
-# Usage
-## Part 1
 
-1. Go to: https://selmankon.github.io/js-keylogger-generator/
-2. Fill in the necessary information in the form, including the URL ```Example: https://logger.com/?k=``` for the keylogger script and the interval timeout (in milliseconds).
-3. Choose whether to encode or obfuscate the generated keylogger script, and select the appropriate options.
-4. Click the "Generate" button to create the keylogger script.
-5. Copy the generated script and paste it into a new JavaScript file in your logger website. ```(Example: https://attacker.com/evil.js)```
-
-## Part 2
-1. Add the keylogger script to your web page. 
-
-Example: attacker.com includes ```<script src="https://attacker.com/evil.js">```
-
-2. Launch the web page ```(in this case is attacker.com)``` and start typing. The keylogger will begin logging your keystrokes and sending them to the specified URL ```(in this case is logger.com)``` at the specified interval.
-
-You can easily use:
-
-```
-python3 -m http.server 9090
 ```
 
 ## Example
